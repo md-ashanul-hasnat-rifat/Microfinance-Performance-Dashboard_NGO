@@ -17,9 +17,9 @@ The dashboard is designed to support **data-driven decision-making** by providin
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](02.png)
-
-> ⚠️ Upload your screenshot in the repo and name it **dashboard.png**
+![Dashboard Screenshot](02.jpg)
+![Dashboard Screenshot](01.jpg)
+![Dashboard Screenshot](03.jpg)
 
 ---
 
